@@ -9,6 +9,8 @@
 - Select a tree from the list of saved
 - Insert a new element and redraw the tree
 - Crop the modified tree
+### Tehnologies
+C#/Windows Forms
 ### Screenshoots
 ##### Creating cartesian tree
 ![Creating cartesian tree](https://github.com/DaniilPanasenko/CartesianTree/raw/master/Media/Create.png)
