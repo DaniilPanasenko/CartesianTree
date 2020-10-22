@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartesianTree", "CartesianTree\CartesianTree.csproj", "{87FBB52E-D274-41F0-8B37-A49E1C2E2F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FBB52E-D274-41F0-8B37-A49E1C2E2F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FBB52E-D274-41F0-8B37-A49E1C2E2F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FBB52E-D274-41F0-8B37-A49E1C2E2F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FBB52E-D274-41F0-8B37-A49E1C2E2F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E906D221-A776-492C-A09F-82387C08E8D7}
+	EndGlobalSection
+EndGlobal
