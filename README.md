@@ -18,4 +18,3 @@ C#/Windows Forms
 ![Inserting into saved cartesian tree](https://github.com/DaniilPanasenko/CartesianTree/raw/master/Media/Insert.png)
 ### Demo video
 [![Watch the video](https://github.com/DaniilPanasenko/CartesianTree/raw/master/Media/demo_picture.png)](https://youtu.be/LtpezYmbjVU)
-https://youtu.be/LtpezYmbjVU
